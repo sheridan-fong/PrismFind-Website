@@ -73,6 +73,11 @@ p {
   font-size: 1.2rem;
 }
 
+.navbar-brand{
+  color: white !important;
+}
+
+
 /* title section */
 .download-btn {
   /* margin: 5% 3% 5% 0; */
@@ -169,7 +174,7 @@ p {
 }
 
 .price-level{
-    font-size: 3.5rem
+    font-size: 2.60rem
 }
 
 /* call to action section */
