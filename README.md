@@ -4,4 +4,4 @@ The website is made using HTML, CSS and bootstrap.
 
 Prism Find is an app where users upload images and the app tells them where to buy the clothing and accessories, it also suggests cheaper alternatives. 
 
-Link: 
+Link: https://ssheridan17.github.io/PrismFind-Website/
